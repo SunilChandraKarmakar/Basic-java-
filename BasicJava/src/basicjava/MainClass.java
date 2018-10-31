@@ -11,5 +11,9 @@ public class MainClass
         InputDemo.StringInput();
         ArithmeticOperation.AllOperation();
         AssigmentOperator.AllAssOp();
+        UnaryDemo.UD();
+        IncrementDecrement.ID();
+
+
     }
 }
