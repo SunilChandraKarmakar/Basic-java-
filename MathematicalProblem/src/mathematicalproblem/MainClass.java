@@ -14,6 +14,9 @@ public class MainClass
         //Series.OneToN();
         //Series.OneThree();
         //Series.OnePointFive();
-        Series.OneIntoTwo();
+        //Series.OneIntoTwo();
+        //FactorialNumber.FN();
+        //TimeTableDemo.TTD();
+        //TimeTableDemo.TTDTwo();
     }
 }
