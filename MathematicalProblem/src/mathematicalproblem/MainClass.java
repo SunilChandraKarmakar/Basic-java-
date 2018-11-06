@@ -18,5 +18,12 @@ public class MainClass
         //FactorialNumber.FN();
         //TimeTableDemo.TTD();
         //TimeTableDemo.TTDTwo();
+        //PrimeNumber.PN();
+        //PrimeNumber.Upn();
+        //FibonacciSeries.FS();
+        //SumOfDigits.SD();
+        //ReverseNumber.RN();
+        //PalindromeNumber.PN();
+        ArmstrongNumber.AN();
     }
 }
