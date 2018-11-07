@@ -1,5 +1,7 @@
 package array_demo;
 
+import java.util.Scanner;
+
 public class IntroductionArray 
 {
     public static void main(String[] args) 
@@ -15,6 +17,6 @@ public class IntroductionArray
         int lenth = number.length;
         System.out.println("Sum of the array is : " + sum);
         System.out.println("Size of the array : " + lenth);
-        System.out.println("Array index view - number[3] = " + number[3]);
+        System.out.println("Array index view - number[3] = " + number[3]); 
     }
 }
